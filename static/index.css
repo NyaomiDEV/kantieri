@@ -17,6 +17,11 @@ body {
 	justify-content: center;
 }
 
+#lol.side-right {
+	flex-direction: row-reverse;
+	text-align: right;
+}
+
 #xd {
 	display: inline;
 	height: 100%;
